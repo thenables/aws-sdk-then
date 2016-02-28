@@ -41,12 +41,12 @@ S3.getObject({
 
 [npm-image]: https://img.shields.io/npm/v/aws-sdk-then.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/aws-sdk-then
-[travis-image]: https://img.shields.io/travis/jonathanong/aws-sdk-then/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/jonathanong/aws-sdk-then
-[codecov-image]: https://img.shields.io/codecov/c/github/jonathanong/aws-sdk-then/master.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/jonathanong/aws-sdk-then
-[david-image]: http://img.shields.io/david/jonathanong/aws-sdk-then.svg?style=flat-square
-[david-url]: https://david-dm.org/jonathanong/aws-sdk-then
+[travis-image]: https://img.shields.io/travis/thenables/aws-sdk-then/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/thenables/aws-sdk-then
+[codecov-image]: https://img.shields.io/codecov/c/github/thenables/aws-sdk-then/master.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/thenables/aws-sdk-then
+[david-image]: http://img.shields.io/david/thenables/aws-sdk-then.svg?style=flat-square
+[david-url]: https://david-dm.org/thenables/aws-sdk-then
 [license-image]: http://img.shields.io/npm/l/aws-sdk-then.svg?style=flat-square
 [license-url]: LICENSE
 [downloads-image]: http://img.shields.io/npm/dm/aws-sdk-then.svg?style=flat-square
