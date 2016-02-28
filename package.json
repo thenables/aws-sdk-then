@@ -6,8 +6,8 @@
   "license": "MIT",
   "repository": "jonathanong/aws-sdk-then",
   "dependencies": {
-    "memorizer": "^1.0.1",
-    "native-or-bluebird": "^1.2.0"
+    "any-promise": "^1.1.0",
+    "memorizer": "^1.0.1"
   },
   "devDependencies": {
     "aws-sdk": "^2.2.30",
